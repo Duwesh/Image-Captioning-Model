@@ -1,4 +1,1 @@
-# Image_Captioning Model
-# Neural Networks
-# Computer Vision and Natural Language Processing
-# Convolutional Neural Network and Recurrent Neural Network
+# Image captioning is the process of generating textual description of an image.It uses both Natural Language Processing and Computer Vision to generate the captions.
